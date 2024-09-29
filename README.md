@@ -48,9 +48,11 @@ Endpoint: https://api.coingecko.com/api/v3/coins/markets
 Query parameters: vs_currency: The currency to show cryptocurrency prices in (e.g., usd, eur).
 
 **Technologies Used**
-**React** - A JavaScript library for building user interfaces.
-**CoinGecko API** - A free API to retrieve cryptocurrency data.
-**react-google-charts** - A React wrapper for Google Charts.
+React - A JavaScript library for building user interfaces.
+
+CoinGecko API - A free API to retrieve cryptocurrency data.
+
+react-google-charts - A React wrapper for Google Charts.
 
 ## In this project you will learn
 1. **React Basics**: 
