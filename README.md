@@ -42,13 +42,7 @@ here we show detail about crypto market rank, current price, market cap, 24 hour
 3) Start the development server
 - npm start
 
-## Development Dependencies
-
- 1) npm install react react-dom
- 2) npm install react-google-charts
- 3) npm install react-icons
-    
-**API Reference**
+## API Reference
 This project uses the CoinGecko API to fetch live cryptocurrency market data.
 Endpoint: https://api.coingecko.com/api/v3/coins/markets
 Query parameters: vs_currency: The currency to show cryptocurrency prices in (e.g., usd, eur).
