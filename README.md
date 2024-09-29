@@ -2,6 +2,20 @@
 
 A simple React application that tracks and displays cryptocurrency prices using the CoinGecko API. The app features a live line chart for visualizing the historical price data of selected cryptocurrencies.
 
+## Screenshot
+
+![Screenshot 2024-09-29 234545](https://github.com/user-attachments/assets/4868efc2-166e-44ea-999c-5ba05bd55fd2)
+The homepage displays the app's title, a search bar for users to search for cryptocurrencies
+
+![Screenshot 2024-09-29 234725](https://github.com/user-attachments/assets/122d2776-9a74-4bb9-a31f-577dbc12eb5f)
+This section shows the prices of the top 10 cryptocurrencies in real-time, including the name, current price, and 24-hour change percentage. The footer is also displayed at the bottom of the page.
+
+after the clicking any coin it will render coin page 
+![Screenshot 2024-09-29 235802](https://github.com/user-attachments/assets/f08c973c-dfea-4fd1-93a2-8dab25860bf5)
+
+![Screenshot 2024-09-29 235228](https://github.com/user-attachments/assets/66524b48-4bfb-40eb-9c05-d206aa094a7b)
+
+
 ## Features
 - Fetches live cryptocurrency data from the CoinGecko API.
 - Displays historical price data on an interactive line chart.
@@ -35,7 +49,7 @@ Query parameters: vs_currency: The currency to show cryptocurrency prices in (e.
 **CoinGecko API** - A free API to retrieve cryptocurrency data.
 **react-google-charts** - A React wrapper for Google Charts.
 
-in this project you will learn
+## in this project you will learn
 1. **React Basics**: 
    - How to build and organize a React component-based application.
    - Utilizing functional components, `useState`, and `useEffect` hooks.
@@ -63,6 +77,4 @@ in this project you will learn
    - Understanding how to install and use third-party libraries like `react-google-charts` for specific tasks like data visualization.
 
 
-
-
-reference link:- https://www.youtube.com/watch?v=jZFaMEqEqEQ
+**reference link**:- https://www.youtube.com/watch?v=jZFaMEqEqEQ
