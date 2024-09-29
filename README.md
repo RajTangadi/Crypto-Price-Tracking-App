@@ -86,4 +86,6 @@ Query parameters: vs_currency: The currency to show cryptocurrency prices in (e.
    - Understanding how to install and use third-party libraries like `react-google-charts` for specific tasks like data visualization.
 
 
-**reference link**:- https://www.youtube.com/watch?v=jZFaMEqEqEQ
+**live website**: https://crypto-hunter1.netlify.app/
+
+**reference link**: https://www.youtube.com/watch?v=jZFaMEqEqEQ
