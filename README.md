@@ -24,8 +24,11 @@ here we show detail about crypto market rank, current price, market cap, 24 hour
 
 ## Features
 - Fetches live cryptocurrency data from the CoinGecko API.
+  
 - Displays historical price data on an interactive line chart.
+  
 - Allows users to track cryptocurrency prices in different currencies.
+  
 - Simple and clean UI, with a responsive footer.
 
 ## Installation
