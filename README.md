@@ -4,15 +4,17 @@ A simple React application that tracks and displays cryptocurrency prices using 
 
 ## Screenshot
 
+The homepage displays the app's title, a search bar for users to search for cryptocurrencies, and also includes dropdown functionality for searching any coins. you can toggel currency and also dynamically changed price based on currency
 ![Screenshot 2024-09-29 234545](https://github.com/user-attachments/assets/4868efc2-166e-44ea-999c-5ba05bd55fd2)
-The homepage displays the app's title, a search bar for users to search for cryptocurrencies
 
+we are fetching top 10 cryptocurrencies in real-time, including the name, current price, and 24-hour change percentage. 
+The footer is also displayed at the bottom of the page.
 ![Screenshot 2024-09-29 234725](https://github.com/user-attachments/assets/122d2776-9a74-4bb9-a31f-577dbc12eb5f)
-This section shows the prices of the top 10 cryptocurrencies in real-time, including the name, current price, and 24-hour change percentage. The footer is also displayed at the bottom of the page.
 
-after the clicking any coin it will render coin page 
+after the clicking any coin it will render coin page. coin page contain chart, it shows relationship of date and price, if you toggel the currency the price value also changed
 ![Screenshot 2024-09-29 235802](https://github.com/user-attachments/assets/f08c973c-dfea-4fd1-93a2-8dab25860bf5)
 
+here we show detail about crypto market rank, current price, market cap, 24 hour high, 24 hour low
 ![Screenshot 2024-09-29 235228](https://github.com/user-attachments/assets/66524b48-4bfb-40eb-9c05-d206aa094a7b)
 
 
