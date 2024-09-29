@@ -47,7 +47,8 @@ This project uses the CoinGecko API to fetch live cryptocurrency market data.
 Endpoint: https://api.coingecko.com/api/v3/coins/markets
 Query parameters: vs_currency: The currency to show cryptocurrency prices in (e.g., usd, eur).
 
-**Technologies Used**
+**Technologies Used:**
+
 React - A JavaScript library for building user interfaces.
 
 CoinGecko API - A free API to retrieve cryptocurrency data.
