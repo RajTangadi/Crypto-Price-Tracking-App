@@ -58,7 +58,7 @@ Query parameters: vs_currency: The currency to show cryptocurrency prices in (e.
 **CoinGecko API** - A free API to retrieve cryptocurrency data.
 **react-google-charts** - A React wrapper for Google Charts.
 
-## in this project you will learn
+## In this project you will learn
 1. **React Basics**: 
    - How to build and organize a React component-based application.
    - Utilizing functional components, `useState`, and `useEffect` hooks.
