@@ -33,7 +33,7 @@ here we show detail about crypto market rank, current price, market cap, 24 hour
 
 ## Installation
 1) Clone the repository
-- git clone https://github.com/your-username/crypto-price-tracking-app.git
+- git clone https://github.com/RajTangadi/Crypto-Price-Tracking-App.git
 - cd crypto-price-tracking-app
 
 2) Install the dependencies
